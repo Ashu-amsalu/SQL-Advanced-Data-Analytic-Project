@@ -1,5 +1,5 @@
 
-### well come to the Advanced-Data-Analytics project
+#### <<< Welcome to the Advanced-Data-Analytics project>>>
 This repository showcases a comprehensive SQL Advanced Data Analytics project designed to uncover actionable business insights from raw sales, customer, and product datasets. Utilising advanced SQL techniques, including CTEs, subqueries, and powerful window functions (RANK, NTILE, LAG, LEAD), the project provides data-driven solutions to real-world business problems.
 
 ### Project Structure: 
