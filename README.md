@@ -34,45 +34,45 @@ This repository showcases a comprehensive SQL Advanced Data Analytics project de
   
   #### Tables: 
   
-    gold.dim_customers 
+    - gold.dim_customers 
     
-    gold.dim_products
+    - gold.dim_products
     
-    gold.fact_sales                       
+    - gold.fact_sales                       
   #### Timeframe: 
   
       2010-2014
 ### Business Questions Answered
 
-    What percentage of total revenue comes from the top 20% of customers?
+    - What percentage of total revenue comes from the top 20% of customers?
       
-    What percentage of revenue comes from the top 5 best-selling products?
+    - What percentage of revenue comes from the top 5 best-selling products?
       
-    Which customers purchased in the last 30 days vs. inactive customers?
+    - Which customers purchased in the last 30 days vs. inactive customers?
       
-    Cumulative number of customers acquired over time?
+    - Cumulative number of customers acquired over time?
     	
-    Which product categories are showing accelerated vs. declining growth?
+    - Which product categories are showing accelerated vs. declining growth?
+    
+ #### Screenshot of data segmentation
+ 
+  <img width="733" height="523" alt="Image" src="https://github.com/user-attachments/assets/90874338-6d0f-4032-8bc7-ff120ece68eb" />
+  
 ### Skills Demonstrated
 
-    SQL joins (INNER, LEFT JOIN)
+    - SQL joins (INNER, LEFT JOIN)
     
-    Grouping & aggregation
+    - Grouping & aggregation
     
-    Common Table Expressions (CTEs)
+    - Common Table Expressions (CTEs)
     
-    Window functions (RANK(), OVER(),NTILE, LAG, LEAD)
+    - Window functions (RANK(), OVER(),NTILE, LAG, LEAD)
     
-    Date functions (DATEDIFF, GETDATE())
+    - Date functions (DATEDIFF, GETDATE())
     
-    Conditional logic (CASE WHEN)
+    - Conditional logic (CASE WHEN)
     
-    Data cleansing and filtering
-
- #### Screenshot of data segmentation
-  Which countries show the highest growth rate year-over-year?
-  
-  <img width="733" height="523" alt="Image" src="https://github.com/user-attachments/assets/90874338-6d0f-4032-8bc7-ff120ece68eb" />
+    - Data cleansing and filtering
 
 ### License
 
