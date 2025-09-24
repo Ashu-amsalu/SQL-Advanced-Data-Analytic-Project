@@ -83,10 +83,7 @@ This repository showcases a comprehensive SQL Advanced Data Analytics project de
     Hi there! I’m Aysheshim Amsalu, an Industrial Engineering professional passionate about leveraging data analysis 
     to solve real-world challenges. My work focuses on transforming raw data into actionable insights that drive smarter decisions
 ### Contact & Portfolio
-
-    LinkedIn: https://www.linkedin.com/in/ashu-amsalu122127/
-    
-    Tableau Public:  https://public.tableau.com/app/profile/aysheshim.amsalu/vizzes
-    
-    GitHub: https://github.com/Ashu-amsalu
+  - LinkedIn: https://www.linkedin.com/in/ashu-amsalu122127/
+  - Tableau Public:  https://public.tableau.com/app/profile/aysheshim.amsalu/vizzes
+  - GitHub: https://github.com/Ashu-amsalu
 
