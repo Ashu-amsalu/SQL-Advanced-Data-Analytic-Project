@@ -68,6 +68,12 @@ This repository showcases a comprehensive SQL Advanced Data Analytics project de
     Conditional logic (CASE WHEN)
     
     Data cleansing and filtering
+
+ #### Screenshot of data segmentation
+  Which countries show the highest growth rate year-over-year?
+  
+  <img width="733" height="523" alt="Image" src="https://github.com/user-attachments/assets/90874338-6d0f-4032-8bc7-ff120ece68eb" />
+
 ### License
 
     This project is licensed under the MIT License, which grants you the freedom to use,
