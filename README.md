@@ -1,2 +1,2 @@
 # SQL-Advanced-Data-Analytic-Project
-By combining cumulative analysis, Data segmentation analysis, performance tracking, and part-to-whole analysis, this project highlights the power of advanced SQL to solve complex business problems and provide actionable insights for data-driven decisions.
+This repository showcases a comprehensive SQL Advanced Data Analytics project designed to uncover actionable business insights from raw sales, customer, and product datasets. Utilising advanced SQL techniques, including CTEs, subqueries, and powerful window functions (RANK, NTILE, LAG, LEAD), the project provides data-driven solutions to real-world business problems.
